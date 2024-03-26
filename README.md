@@ -3,6 +3,8 @@ This tutorial will help you understand the basics of writing in Markdown with ex
 
 ### Table of Contents:
 
+---
+
 - [What is Markdown](#what-is-markdown)
 - [How to](#how-to)
   - [Creating Headings](#creating-headings)
@@ -15,6 +17,8 @@ This tutorial will help you understand the basics of writing in Markdown with ex
   - [Blockquotes](#blockquotes)
 - [Markdown Preview in VS Code](#markdown-preview-in-vs-code)
 - [Best Markdown Plugins in VS Code](#best-markdown-plugins-in-vs-code)
+
+---
 
 ## What is Markdown
 
