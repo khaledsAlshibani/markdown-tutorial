@@ -15,7 +15,7 @@ This tutorial will let you understand basics of writing Markdown with examples.
 
 ### Creating Headings
 
-Use # symbols before text for headings. One # for h1, two ## for h2, etc., with a space after the symbols.
+Use `#` symbols before text for headings. One `#` for `h1`, two `##` for `h2`, etc., with a space after the symbols.
 
 **This is an `h3`:**
 - ### This is an h3 title example created by writing `### This is an h3 title example created by writing ...`
