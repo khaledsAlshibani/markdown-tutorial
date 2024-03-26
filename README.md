@@ -105,7 +105,7 @@ Use three dashes `---`, three underscores `___`, or three asterisks `***` to cre
 
    **Example:**
 
-   ![Code Block Example](./assets/codeblock.png)
+   ![Code Block Example](./assets/code-block.png)
 
    **Output:**
 
