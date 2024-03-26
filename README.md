@@ -1,6 +1,20 @@
-# Markdown Tutorial
-
+<h1>Markdown Tutorial</h1>
 This tutorial will help you understand the basics of writing in Markdown with examples.
+
+### Table of Contents:
+
+- [What is Markdown](#what-is-markdown)
+- [How to](#how-to)
+  - [Creating Headings](#creating-headings)
+  - [Writing Normal and Plain Text](#writing-normal-and-plain-text)
+  - [Formatting Text with Italic and Bold](#formatting-text-with-italic-and-bold)
+  - [Making Lists](#making-lists)
+  - [Creating a Divider](#creating-a-divider)
+  - [Writing Inline Code and Code Blocks](#writing-inline-code-and-code-blocks)
+  - [Creating Tables](#creating-tables)
+  - [Blockquotes](#blockquotes)
+- [Markdown Preview in VS Code](#markdown-preview-in-vs-code)
+- [Best Markdown Plugins in VS Code](#best-markdown-plugins-in-vs-code)
 
 ## What is Markdown
 
